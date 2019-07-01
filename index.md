@@ -1,7 +1,6 @@
 # Make your open source project awesome!
 
-[Accompanying slides](https://docs.google.com/presentation/d/1pdJJ9iBpwC-smxZ29KwsqOcl37coLZqNCCKoKFGqOPo/edit#slide=id.g30e60a4b80_0_31)
-
+[Accompanying slides](https://docs.google.com/presentation/d/1pdJJ9iBpwC-smxZ29KwsqOcl37coLZqNCCKoKFGqOPo/edit#slide=id.p)
 Make your open source project awesome is a workshop designed to help kick-start open source projects (or indeed, projects which aren't yet open source but exist as ideas or as closed code).
 
 Many journals require that scientific / research code to be open source in order to be published, but simply sharing source code alone isn’t usually enough to draw in new users and contributors. This session will discuss how researchers and coders can make their open source code repositories inclusive and welcoming to contributors.
